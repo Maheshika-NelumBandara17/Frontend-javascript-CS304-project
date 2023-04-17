@@ -1,0 +1,10 @@
+export const USER_LOGIN = "user_login";
+export const REGISTER_USER = "register_user";
+export const SIGN_UP = "sign_up";
+export const GET_VIDEOS = "get_videos";
+export const SET_FINES = "set_fines";
+export const SET_PAYMENT = "set_payment";
+export const ADD_VIDEO = "add_video";
+export const SET_VIDEO_LIST = "set_video_list";
+export const GET_TOKEN = "get_token";
+export const UPDATE_USER_DETAILS = "update_user_details";
